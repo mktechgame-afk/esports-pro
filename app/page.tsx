@@ -44,7 +44,7 @@ export default function Home() {
 
           <div className="relative">
             <Image
-              src="/logo.jpg"
+              src="/logo.JPG"
               alt="4 Wings Esport"
               width={55}
               height={55}
